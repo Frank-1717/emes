@@ -1,7 +1,12 @@
 h2{
-    color: aquamarine;
+    color: rgb(182, 48, 48);
     font-family: 'Open Sans', sans-serif;
     text-align: center;
+    padding: 1em;
+}
+h3{
+    color:rgb(139, 53, 53) ;
+    padding: 1em;
 }
 .clase{
     background-color: bisque;
@@ -12,7 +17,9 @@ font-family: 'Open Sans', sans-serif;
 }
 
 p{
-    color: brown;
+    color: rgb(51, 30, 30);
+    padding: 3em;
+    padding-top: 0em;
 }
 
 
