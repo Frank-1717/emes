@@ -22,8 +22,9 @@ body {
 .contacto{
   
   position: center;
-  width: 100%;
-  
+  width: 100%;  
   padding: 17em;
+  opacity: 0.8;
   
 }
+
