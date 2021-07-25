@@ -20,8 +20,22 @@ p{
     color: rgb(51, 30, 30);
     padding: 3em;
     padding-top: 0em;
+    font-size: larger;
     
 }
+.parallax {
+    /* The image used */
+    background-image: url("https://i.postimg.cc/Bbg92n7t/inicio.jpg");
+  
+    /* Set a specific height */
+    min-height: 900px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
 
 
